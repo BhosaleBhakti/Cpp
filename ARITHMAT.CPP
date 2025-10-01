@@ -11,4 +11,9 @@ int b=4;
  cout<<"A*B"<<a*b<<endl;
  cout<<"A/B"<<a/b;
  getch();
+
+
+
+
 }
+
